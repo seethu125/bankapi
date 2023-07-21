@@ -1,0 +1,13 @@
+com\bank\api\enitities\Branch.class
+com\bank\api\service\impl\BankBranchServiceImpl.class
+com\bank\api\enitities\Bank.class
+com\bank\api\controller\ApplicationController.class
+com\bank\api\ApiApplication.class
+com\bank\api\repos\BankRepository.class
+com\bank\api\controller\BankController.class
+com\bank\api\service\BankBranchService.class
+com\bank\api\repos\BranchesRepository.class
+com\bank\api\service\BankService.class
+com\bank\api\service\impl\BankServiceImpl.class
+com\bank\api\enitities\BankBranches.class
+com\bank\api\repos\BankBranchRepository.class

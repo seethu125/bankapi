@@ -1,0 +1,4 @@
+com\bank\api\ApiApplicationTests.class
+com\bank\api\BankControllerTest.class
+com\bank\api\ApiIntegrationTest.class
+com\bank\api\BankControllerStepDefinitions.class
